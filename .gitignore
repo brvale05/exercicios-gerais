@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#Zone Identifier
+**/*.Identifier
+
 # Object files
 *.ko
 *.obj
